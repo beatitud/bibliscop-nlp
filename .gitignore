@@ -1,0 +1,7 @@
+*.pkl
+.ipynb_checkpoints/
+*.pyc
+data/
+.idea/
+.DS_Store
+*.model
